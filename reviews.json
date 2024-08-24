@@ -1,0 +1,101 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Emily Johnson",
+      "subject": "Introduction to Psychology",
+      "stars": 4,
+      "review": "Dr. Johnson is knowledgeable and engaging. Her lectures are clear, but sometimes she goes off on tangents."
+    },
+    {
+      "professor": "Dr. Michael Lee",
+      "subject": "Advanced Calculus",
+      "stars": 5,
+      "review": "Dr. Lee is an exceptional professor. His explanations are thorough and he provides great support outside of class."
+    },
+    {
+      "professor": "Dr. Sarah Williams",
+      "subject": "Modern Literature",
+      "stars": 3,
+      "review": "Dr. Williams is passionate about the subject, but her grading can be inconsistent and unclear."
+    },
+    {
+      "professor": "Dr. Robert Smith",
+      "subject": "Organic Chemistry",
+      "stars": 2,
+      "review": "Dr. Smith is knowledgeable but struggles to make the material engaging. The class is quite challenging with little support."
+    },
+    {
+      "professor": "Dr. Jessica Brown",
+      "subject": "World History",
+      "stars": 4,
+      "review": "Dr. Brown brings history to life with her storytelling. However, the exams can be quite difficult and stressful."
+    },
+    {
+      "professor": "Dr. Daniel Clark",
+      "subject": "Biochemistry",
+      "stars": 5,
+      "review": "Dr. Clark is incredibly dedicated and provides ample resources for students. His lab sessions are particularly helpful."
+    },
+    {
+      "professor": "Dr. Lisa Turner",
+      "subject": "Philosophy of Science",
+      "stars": 3,
+      "review": "Dr. Turner has an intriguing approach to philosophy, but her lectures can be dense and hard to follow at times."
+    },
+    {
+      "professor": "Dr. Henry Adams",
+      "subject": "Microeconomics",
+      "stars": 4,
+      "review": "Dr. Adams explains complex economic concepts in an accessible way. His assignments are relevant and challenging."
+    },
+    {
+      "professor": "Dr. Alice Green",
+      "subject": "Astronomy",
+      "stars": 5,
+      "review": "Dr. Green is enthusiastic and makes the subject fascinating. Her night sky observations are a highlight of the course."
+    },
+    {
+      "professor": "Dr. William Roberts",
+      "subject": "Sociology",
+      "stars": 3,
+      "review": "Dr. Roberts is knowledgeable but his lectures can be somewhat monotonous. The course material is interesting but needs better organization."
+    },
+    {
+      "professor": "Dr. Megan Evans",
+      "subject": "Environmental Science",
+      "stars": 4,
+      "review": "Dr. Evans is passionate about the environment and engages students with practical projects. The course workload is manageable and rewarding."
+    },
+    {
+      "professor": "Dr. Steven Martinez",
+      "subject": "Statistics",
+      "stars": 2,
+      "review": "Dr. Martinez's teaching style is not very engaging. The course is essential but could benefit from clearer explanations and more interactive sessions."
+    },
+    {
+      "professor": "Dr. Natalie Cooper",
+      "subject": "French Literature",
+      "stars": 4,
+      "review": "Dr. Cooper's deep knowledge of French literature is evident. Her class discussions are lively, though the course could use more structured assignments."
+    },
+    {
+      "professor": "Dr. James Wilson",
+      "subject": "Political Science",
+      "stars": 5,
+      "review": "Dr. Wilson brings a wealth of real-world experience to his teaching. His insights are valuable and the class discussions are always engaging."
+    },
+    {
+      "professor": "Dr. Laura Mitchell",
+      "subject": "Geology",
+      "stars": 4,
+      "review": "Dr. Mitchell's field trips are incredibly educational and she makes complex geological concepts easy to understand. The exams are quite demanding."
+    },
+    {
+      "professor": "Dr. David Harris",
+      "subject": "Music Theory",
+      "stars": 3,
+      "review": "Dr. Harris is knowledgeable about music theory but his lectures can be dry. The course is challenging but essential for those pursuing music."
+    }
+  ]
+}
+
