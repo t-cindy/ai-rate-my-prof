@@ -41,17 +41,16 @@ export async function POST(req){
         vector: embedding.data[0].embedding,
     });
 
-    const resultString = '\n\nReturned results from vector db (done auto):';
+    let resultString = '\n\nReturned results from vector db (done auto):';
     results.matches.forEach((match) => {
-        resultString += `\n
-        
-        Professor: ${match.id}
-        Review: ${match.metadata.stars}
-        Subject:${match.metadata.subjects}
-        Stars:${match.metadata.stars}
-        \n\n
-        `
+      resultString += `\n
+      Professor: ${match.id}
+      Review: ${match.metadata.review}
+      Stars: ${match.metadata.stars}
+      Subject: ${match.metadata.subject}
+      `;
     });
+    
 
     const lastMessage = data[data.length - 1];
     const lastMessageContent = lastMessage.content + resultString;
